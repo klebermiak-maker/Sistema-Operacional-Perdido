@@ -1,0 +1,6 @@
+{
+  "name": "Missão: O Sistema Operacional Perdido",
+  "description": "Jogo educativo interdisciplinar de Computação (BNCC EF05CO07), Língua Portuguesa e Matemática para o 5º ano do Ensino Fundamental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
